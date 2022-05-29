@@ -1,0 +1,12 @@
+body{
+    background-image: url('image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-clip:
+}
+.ctr{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

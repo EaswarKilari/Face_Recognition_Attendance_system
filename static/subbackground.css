@@ -1,0 +1,12 @@
+body{
+    background-image: url("welcome.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+h1{
+    position:absolute;
+    top: 40%;
+    left: 0%;
+    transform: translate(+70%, -50%);
+}
